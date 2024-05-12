@@ -1,26 +1,10 @@
 
-# Mapty
-## Save your Works on Map!!
+# Online-shop
 
 
-[Demo of Mapty](https://smsajjadsm.github.io/Mpty/)
+
+[Demo of Online-shop](https://smsajjadsm.github.io/Online-Shop/)
 ===
-![plot](./IMG/1.png)
-![plot](./IMG/2.png)
-
-
-
-
-
-## Features
-
-- Ability to show your location
-- Ability to save your activities inside the map
-
-
-
-
-
 
 
 ## Installation
@@ -29,7 +13,7 @@
 First clone project ...
 
 ```sh
-https://github.com/SMsajjadSM/Mpty.git
+https://github.com/SMsajjadSM/Online-Shop.git
 ```
 
 Install the dependencies and devDependencies
@@ -44,7 +28,7 @@ npm i
 I would appreciate it if you could
 support me by giving me a ⭐
 
-[SMsajjadSM](https://github.com/SMsajjadSM/Mpty)
+[SMsajjadSM](https://github.com/SMsajjadSM/Online-Shop)
 
 
 
